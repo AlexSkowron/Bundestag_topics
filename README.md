@@ -1,3 +1,3 @@
-# Topics model of German parliamentary speeches
+# Topic model of German parliamentary speeches
 
-In this project I scrape transcripts of speeches held in the German parliament (Bundestag) using the official web api, pre-process the text data and apply a LDA topic model to identify common themes and their temporal evolution.
+In this project I apply a topic model (Latent Dirichlet Allocation) to scraped written transcripts of speeches held in the German parliament (the Bundestag). This analysis reveals prevalent topics as well as their temporal evolution during the course of the legislative period.
